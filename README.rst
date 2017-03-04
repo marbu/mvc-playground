@@ -46,3 +46,12 @@ Others:
 
 .. _`Building Graphical User Interfaces with the MVC Pattern`: http://csis.pace.edu/~bergin/mvc/mvcgui.html
 .. _`Introduction of MVC structure in J2ME client`: http://markmail.org/download.xqy?id=yqka6wgrs5r4bc4h&number=2
+
+Python Examples
+===============
+
+* `ToyMVC`_ (``python-toymvc``)
+* `An Example of Model View Controller Design Pattern with Tkinter Python`_
+
+.. _`ToyMVC`: http://tkinter.unpythonic.net/wiki/ToyMVC
+.. _`An Example of Model View Controller Design Pattern with Tkinter Python`: https://sukhbinder.wordpress.com/2014/12/25/an-example-of-model-view-controller-design-pattern-with-tkinter-python/
