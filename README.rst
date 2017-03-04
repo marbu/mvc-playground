@@ -32,3 +32,12 @@ For more details, see:
 .. _`What is a Controller Anyway?`: http://wiki.c2.com/?WhatsaControllerAnyway
 .. _`GUI Architectures`: https://martinfowler.com/eaaDev/uiArchs.html
 .. _`MVC page maintained by creator of the pattern Trygve Reenskaug`: http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html
+
+Tutorials and Examples for Java
+===============================
+
+Tutorials:
+
+* `Building Graphical User Interfaces with the MVC Pattern`_ (``java-mvcgui``)
+
+.. _`Building Graphical User Interfaces with the MVC Pattern`: http://csis.pace.edu/~bergin/mvc/mvcgui.html
