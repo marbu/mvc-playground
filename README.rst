@@ -40,4 +40,9 @@ Tutorials:
 
 * `Building Graphical User Interfaces with the MVC Pattern`_ (``java-mvcgui``)
 
+Others:
+
+* `Introduction of MVC structure in J2ME client`_
+
 .. _`Building Graphical User Interfaces with the MVC Pattern`: http://csis.pace.edu/~bergin/mvc/mvcgui.html
+.. _`Introduction of MVC structure in J2ME client`: http://markmail.org/download.xqy?id=yqka6wgrs5r4bc4h&number=2
