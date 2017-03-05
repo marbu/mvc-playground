@@ -51,7 +51,5 @@ Python Examples
 ===============
 
 * `ToyMVC`_ (``python-toymvc``)
-* `An Example of Model View Controller Design Pattern with Tkinter Python`_
 
 .. _`ToyMVC`: http://tkinter.unpythonic.net/wiki/ToyMVC
-.. _`An Example of Model View Controller Design Pattern with Tkinter Python`: https://sukhbinder.wordpress.com/2014/12/25/an-example-of-model-view-controller-design-pattern-with-tkinter-python/
